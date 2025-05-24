@@ -1,5 +1,5 @@
 ## Automarización de Pruebas para aplicacion Urban.Routes
-Nombre del repositorio: qa-project-Urban-Grocers-app-es
+Nombre del repositorio: qa-project-Urban-Routes-es
 
 Plataforma usada fue Urban.Routes por medio de servidor actualizado en el archivo de data.py
 con este proyecto se implementaron test automatizados haciendo toda la simulacion de un usuario/a haria para pedir un taxi
